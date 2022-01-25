@@ -39,4 +39,3 @@ contract ERC721OpenZeppelinin4 is ERC721 {
 }
 
 //token transfer
-
